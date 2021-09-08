@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LupaSQL</string>
+    <string name="button">Valider</string>
+    <string name="tv1">tv1</string>
+    <string name="tv2">tv2</string>
+    <string name="veuillez_saisir_votre_num_ro_de_s_rie">Veuillez saisir votre numéro de série</string>
+    <string name="num_ro_de_s_rie">numéro de série</string>
+    <string name="veuillez_saisir_votre_matricule">Veuillez saisir votre Matricule</string>
+    <string name="nom">Nom</string>
+    <string name="veuillez_saisir_votre_nom">Veuillez saisir votre Nom</string>
+    <string name="pr_nom">Prénom</string>
+    <string name="veuillez_saisir_votre_pr_nom">Veuillez saisir votre Prénom</string>
+    <string name="valider">Valider</string>
+    <string name="votre_mot_de_passe_est_le_suivant">Saisissez votre nouveau mot de passe:</string>
+    <string name="copier_le_mot_de_passe">Copier le mot de passe</string>
+    <string name="confirmez_votre_nouveau_mot_de_passe">Confirmez votre nouveau mot de passe</string>
+    <string name="gros_texte">Votre mot de passe doit respecter les critères suivants: \n Contenir au minimum 12 caractères \n une majuscule \n une minuscule \n un chiffre \n un caractère spécial</string>
+</resources>
